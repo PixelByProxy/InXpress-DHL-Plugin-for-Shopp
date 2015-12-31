@@ -1,4 +1,4 @@
-# InXpress-DHL-Plugin-for-Shopp
+# InXpress DHL Plugin for Shopp
 
 Plugin for the Wordpress shopping cart Shopp (https://shopplugin.net) to add DHL Shipping support via InXpress to the shopping cart.
 
